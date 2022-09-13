@@ -58,7 +58,6 @@ main {
     max-width: 900px;
     padding-left: 60px;
     padding-top: 40px;
-    height: 500px;
     background-color: white;
     margin-top: 1px;
     margin-left: auto;
@@ -112,8 +111,26 @@ p {
 
 .mobile {
     margin-top: 20px;
-    background-color: orange;
-    border: 1px solid orange;
+    background-color: #F29E33;
+    border: 1px solid #F29E33;
+    color: white;
+    display: inline;
+    border-radius: 10px;
+}
+
+.website {
+    margin-top: 20px;
+    background-color: #D863A1;
+    border: 1px solid #D863A1;
+    color: white;
+    display: inline;
+    border-radius: 10px;
+}
+
+.sales {
+    margin-top: 20px;
+    background-color: #B0C926;
+    border: 1px solid #B0C926;
     color: white;
     display: inline;
     border-radius: 10px;
