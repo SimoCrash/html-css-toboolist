@@ -74,14 +74,54 @@ ul {
     list-style-type: none;
 }
 
+li {
+    margin-top: 35px;
+}
+
 p {
     display: inline;
-}
-.main-button {
-    border: 1px solid #CACFD4;
-    color: #CACFD4;
+    font-size: 20px;
 }
 
+.editorial {
+    margin-top: 20px;
+    background-color: #47ADF1;
+    border: 1px solid #47ADF1;
+    color: white;
+    display: inline;
+    border-radius: 10px;
+}
+
+.goals {
+    margin-top: 20px;
+    background-color: #9C72E4;
+    border: 1px solid #9C72E4;
+    color: white;
+    display: inline;
+    border-radius: 10px;
+}
+
+.recruiting {
+    margin-top: 20px;
+    background-color: #64C0A9;
+    border: 1px solid #64C0A9;
+    color: white;
+    display: inline;
+    border-radius: 10px;
+}
+
+.mobile {
+    margin-top: 20px;
+    background-color: orange;
+    border: 1px solid orange;
+    color: white;
+    display: inline;
+    border-radius: 10px;
+}
 
 
+
+
+
+/* &#10060; */
 /* &#10060; */
